@@ -23,8 +23,8 @@ I'm a skilled Java developer specializing in scalable, high-performance REST API
 | Quality | SonarQube, Test-Driven Development |
 
 ## How to Reach Me
-- 📧 Email: [your-email@example.com](mailto:nuwantha2000w@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nuwantha-wimalasooriya-526580267/)
+- 📧 Email: [nuwantha2000w@gmail.com](mailto:nuwantha2000w@gmail.com)
+- 💼 LinkedIn: [Nuwantha Wimalasooriya](https://linkedin.com/in/nuwantha-wimalasooriya-526580267/)
 - 📍 Location: Colombo, Sri Lanka
 
 ---
