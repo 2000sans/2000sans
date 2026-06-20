@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**2000sans/2000sans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nuwantha, a Java Backend Developer based in Sri Lanka
 
-Here are some ideas to get you started:
+## Who am I?
+I'm a skilled Java developer specializing in scalable, high-performance REST APIs with Spring Boot and Spring Security. I build production-ready backend systems that handle demanding workloads.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I working on?
+- **tourism-api-2026**: Scalable Spring Boot 4.0.3 backend for a tourism platform (Java 21, Docker, Redis, RabbitMQ)
+- **notes-managing-backend-2025**: Notes management API with MongoDB (Spring Boot 3.4.4)
+- Microservices supporting high concurrent user loads
+
+## Tools I Use
+| Category | Tools |
+|----------|-------|
+| Languages | Java 17 & 21, SQL |
+| Frameworks | Spring Boot, Spring Security, JPA/Hibernate |
+| Databases | MySQL, MariaDB, MongoDB, Redis |
+| DevOps | Docker, Docker Compose, Maven, Git |
+| Messaging | RabbitMQ |
+| Security | JWT, Basic Auth |
+| Logging | SLF4J, ELK (Elasticsearch, Logstash, Kibana) |
+| Quality | SonarQube, Test-Driven Development |
+
+## How to Reach Me
+- 📧 Email: [your-email@example.com](mailto:nuwantha2000w@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nuwantha-wimalasooriya-526580267/)
+- 📍 Location: Colombo, Sri Lanka
+
+---
+
+💡 Open to backend developer and Spring Boot roles
