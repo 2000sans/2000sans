@@ -6,9 +6,7 @@ I'm Nuwantha, a Java Backend Developer based in Sri Lanka
 I'm a skilled Java developer specializing in scalable, high-performance REST APIs with Spring Boot and Spring Security. I build production-ready backend systems that handle demanding workloads.
 
 ## What am I working on?
-- **tourism-api-2026**: Scalable Spring Boot 4.0.3 backend for a tourism platform (Java 21, Docker, Redis, RabbitMQ)
-- **notes-managing-backend-2025**: Notes management API with MongoDB (Spring Boot 3.4.4)
-- Microservices supporting high concurrent user loads
+- **tourism-api-2026**: Scalable Spring Boot 4.0.3 backend for a tourism platform (Java 21, Docker, Redis)
 
 ## Tools I Use
 | Category | Tools |
